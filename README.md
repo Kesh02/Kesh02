@@ -26,4 +26,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kesh02&show_icons=true&locale=en&theme=omni" alt="kesh02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kesh02&theme=radical" alt="kesh02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kesh02&theme=omni" alt="kesh02" /></p>
