@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesh02&label=Profile%20views&color=0e75b6&style=flat" alt="kesh02" /> </p>
 
-- 🌱 I’m currently an IT undergraduate persuing a Bachelor's degree
+- 🌱 I’m currently an IT undergraduate persuing a Bachelor's degree in Information Technology
 
-- 💬 Ask me about **Android, MERN**
+
 
 
 
